@@ -46,13 +46,3 @@ This repository contains various beginner-to-intermediate level ML and Data Scie
 - Learn how to preprocess, train, and evaluate ML/DL models.  
 - Work on real-world datasets and problem statements.  
 
----
-
-## 🚧 Future Work  
-
-- Add more advanced ML/DL projects.  
-- Deploy models on web apps (using Streamlit/Flask).  
-- Experiment with Hugging Face Transformers for NLP tasks.  
-
----
-
